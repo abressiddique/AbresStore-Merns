@@ -1,39 +1,27 @@
-# MERN E-Commerce Website
+# **AbresStore – MERN E-Commerce Website (2022 Version)**  
 
-## Overview
+## **Overview**  
 
-A full-stack e-commerce website using the MERN stack (MongoDB, Express.js, React, Node.js). Features include product browsing, user authentication, shopping cart, and an admin dashboard.
+AbresStore is a full-stack **e-commerce website** built using the **MERN stack (MongoDB, Express.js, React, Node.js)** in 2022. This platform allowed users to **browse products, manage carts, place orders, and handle payments** before transitioning to a Next.js-based version.  
 
-## Features
+## **Features**  
 
-- Product Listings
-- User Authentication
-- Shopping Cart
-- Order Management
-- Admin Dashboard
+- **Product Listings** – Browse a variety of products with filters and sorting.  
+- **User Authentication** – Secure login and registration using JWT.  
+- **Shopping Cart** – Add, remove, and manage products in the cart.  
+- **Order Management** – Place and track orders seamlessly.  
+- **Admin Dashboard** – Manage products, users, and orders.  
 
-## Technologies
+## **Technologies Used**  
 
-- **Frontend:** React, Redux, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB
-- **Tools:** Axios, JWT, Bcrypt
+- **Frontend:** React, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Authentication:** JWT, Bcrypt  
+- **Other Tools:** Axios, Cloudinary (for image uploads), Stripe (for payments)  
 
-## Project Screenshots
+## **Installation & Setup**  
 
-Here are some screenshots of the project:
-
-![Screenshot 1](demo/image1.png)
-![Screenshot 2](demo/image2.png)
-![Screenshot 3](demo/image3.png)
-![Screenshot 4](demo/image4.png)
-![Screenshot 5](demo/image5.png)
-![Screenshot 6](demo/image6.png)
-![Screenshot 7](demo/image7.png)
-![Screenshot 8](demo/image8.png)
-
-## Installation
-
-1. **Clone the Repository**
-
+1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/abressiddique/mern-ecommerce-website.git
+   git clone https://github.com/abressiddique/AbresStore-Merns.git
+   cd AbresStore-Merns
